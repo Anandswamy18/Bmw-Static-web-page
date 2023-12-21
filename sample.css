@@ -910,3 +910,12 @@ span{
 #d1{
     color: #262626;
 }
+
+
+a{
+    transition: 0.5px;
+}
+#d1:hover{
+    color: #ff04ff;
+    transform: translateY(-5px);
+}
